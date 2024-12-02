@@ -31,6 +31,7 @@
 ||*parimatch*^
 ||*playwin*^
 ||*poker*^
+||*stavki*^
 ||*slots*^
 ||*slotwin*^
 ||*tennis-bet*^
