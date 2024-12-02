@@ -15,9 +15,7 @@
 ||*betonmobile*^
 ||*bookmaker*^
 ||*bwin*^
-||*brazino*^
 ||*casino*^
-||*cazino*^
 ||*favbet*^
 ||*fonbet*^
 ||*fortuna*^
@@ -25,7 +23,6 @@
 ||*herobet*^
 ||*joy-csn*^
 ||*kasino*^
-||*kazino*^
 ||*legalbet*^
 ||*marathonbet*^
 ||*max-bet*^
