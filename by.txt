@@ -37,6 +37,7 @@
 ||*parimatch*^
 ||*playwin*^
 ||*poker*^
+||*riobet*^
 ||*stavki*^
 ||*slots*^
 ||*slotwin*^
