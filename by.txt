@@ -1,6 +1,7 @@
 ||1xbet.by^
 ||belbet.by^
 ||betcity.by^
+||betonmobile.by^
 ||betera.by^
 ||bookmaker-ratings.by^
 ||brazino777.by^
@@ -9,6 +10,7 @@
 ||herobet.by^
 ||legalbet.by^
 ||marathonbet.by^
+||metaratings.by^
 ||maxbet.by^
 ||maxline.by^
 ||pm.by^
@@ -16,3 +18,4 @@
 ||vprognoze.by^
 ||winline.by^
 ||*casino*^
+||*vulkan*^
