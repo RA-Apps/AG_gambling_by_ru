@@ -20,6 +20,7 @@
 ||*joy-csn*^
 ||*kasino*^
 ||*kazino*^
+||*legalbet*^
 ||*marathonbet*^
 ||*max-bet*^
 ||*maxbet*^
