@@ -39,7 +39,7 @@
 ||*ramenbet*^
 ||*riobet*^
 ||*stavki*^
-||*slots*^
+||*slot*^
 ||*slotwin*^
 ||*superbet*^
 ||*tennis-bet*^
