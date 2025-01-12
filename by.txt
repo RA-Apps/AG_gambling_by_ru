@@ -40,7 +40,6 @@
 ||*riobet*^
 ||*stavki*^
 ||*slot*^
-||*slotwin*^
 ||*superbet*^
 ||*tennis-bet*^
 ||*vulcan*^
