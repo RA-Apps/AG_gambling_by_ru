@@ -24,6 +24,7 @@
 ||*fortuna*^
 ||*freebet*^
 ||*herobet*^
+||*jackpot*^
 ||*joy-csn*^
 ||*kasino*^
 ||*legalbet*^
@@ -41,7 +42,9 @@
 ||*riobet*^
 ||*stavki*^
 ||*slots*^
+||*stake*^
 ||*superbet*^
+||*tonybet*^
 ||*tennis-bet*^
 ||*vulcan*^
 ||*vulkan*^
