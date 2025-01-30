@@ -1,4 +1,6 @@
 ||*-bet*^
+||*-lot*^
+||*-win*^
 ||*0bet*^
 ||*1bet*^
 ||*1win*^
@@ -14,6 +16,7 @@
 ||*7bet*^
 ||*888*^
 ||*9bet*^
+||*a188*^
 ||*admiral*^
 ||*anonibet*^
 ||*anonymbet*^
@@ -84,6 +87,9 @@
 ||*legalbet*^
 ||*leonbet*^
 ||*lionwin*^
+||*lot-*^
+||*lot1*^
+||*lot8*^
 ||*lottery*^
 ||*lotto*^
 ||*lucky*^
@@ -143,8 +149,17 @@
 ||*vulkan*^
 ||*vullkan*^
 ||*vylkan*^
-||*win.admiral*^
-||*win88*^
+||*win-*^
+||*win0*^
+||*win1*^
+||*win2*^
+||*win3*^
+||*win4*^
+||*win5*^
+||*win6*^
+||*win7*^
+||*win8*^
+||*win9*^
 ||*winbet*^
 ||*windetta*^
 ||*winleg*^
