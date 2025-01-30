@@ -50,6 +50,7 @@
 ||*bet8*^
 ||*bet9*^
 ||*betboom*^
+||*betmoney*^
 ||*betcity*^
 ||*betera*^
 ||*betfair*^
