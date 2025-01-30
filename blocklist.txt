@@ -190,6 +190,7 @@
 ||*winspirit*^
 ||*wirwetten*^
 ||*xbet*^
+||*xn--*^
 ||*xwin*^
 ||*yabet*^
 ||*yonibet*^
@@ -200,6 +201,7 @@
 ||.bet^
 ||/.*\d{5,}.*/
 ||pm.by^
+||sangtoto.*^
 ||tsars*.com^
 ||usitbrest.by^
 ||vave*.com^
