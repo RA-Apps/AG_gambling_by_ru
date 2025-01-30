@@ -197,7 +197,6 @@
 ||*zagslot*^
 ||*zenbet*^
 ||*zetbet*^
-||*zmegaslot*^
 ||.bet^
 ||/.*\d{5,}.*/
 ||pm.by^
